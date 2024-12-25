@@ -1,4 +1,4 @@
-PRODIGY_CS_02
+# PRODIGY_CS_01 #
 Task: Pixel Manipulation for Image Encryption & Decryption Date: 10-December-2024
 
 *** WELCOME TO PIXEL MANIPULATION FOR IMAGE ENCRYPTION & DECRYPTION TECHNIQUE ***
